@@ -1,0 +1,4 @@
+<JavaCallout name='Java-Nanotime'>
+  <ClassName>com.dinochiesa.edgecallouts.Nanotime</ClassName>
+  <ResourceURL>java://edge-java-callout-nanotime.jar</ResourceURL>
+</JavaCallout>
