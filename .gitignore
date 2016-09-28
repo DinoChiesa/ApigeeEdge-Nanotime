@@ -4,6 +4,9 @@
 */Icon
 Icon
 
+#*.*#
+*.*~
+
 **/target/
 **/*.jar
 **/*.class

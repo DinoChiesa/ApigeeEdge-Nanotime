@@ -83,7 +83,8 @@ Server: Apigee Router
 
 ## LICENSE
 
-This is licensed under the Apache 2.0 license. See the [LICENSE](LICENSE) file. 
+This material is copyright 2015,2016 Apigee Corporation. 
+and is licensed under the Apache 2.0 license. See the [LICENSE](LICENSE) file. 
 
 
 ## Bugs
